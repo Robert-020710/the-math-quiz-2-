@@ -1,0 +1,40 @@
+body{
+    background-color: burlywood;
+    
+}
+#head{
+    color:white;
+    font-size: 60px;
+}
+#player1{
+font-size: 40px;
+border: dotted;
+}
+
+
+
+#player2{
+font-size: 40px;
+border: dotted;
+}
+
+#join{
+    background-color: coral;
+    color:aliceblue;
+    
+}
+#credit{
+   margin-bottom: 0px;
+}
+
+#output{
+    background: white;
+    border-radius:10px;
+    border-top: 10px solid crimson;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#answer-label{
+    color: black
+}
